@@ -143,3 +143,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Waterproof
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.support.waterproof=true
+
